@@ -1,0 +1,102 @@
+@charset "utf-8";
+.container {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	color: #FFF;
+	background-color: #000;
+	height: 768px;
+	width: 1024px;
+	margin-right: auto;
+	margin-left: auto;
+	font-size: 14px;
+}
+.hakkindayazi {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: 14px;
+	color: #FFF;
+	text-decoration: none;
+	float: left;
+	height: 350px;
+	width: 900px;
+	margin-top: 40px;
+	margin-left: 60px;
+	text-align: justify;
+}
+
+.header {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: 14px;
+	background-color: #000;
+	float: left;
+	height: 250px;
+	width: 1024px;
+}
+.icerik {
+	color: #FFF;
+	background-color: #000;
+	float: left;
+	height: 450px;
+	width: 1024px;
+}
+.menu {
+	color: #FFF;
+	float: right;
+	height: 50px;
+	width: 550px;
+	margin-top: 90px;
+	margin-right: 20px;
+}
+
+.gorsel {
+	background-color: #90C;
+	float: left;
+	height: 350px;
+	width: 1024px;
+}
+.logo {
+	float: left;
+	height: 100px;
+	width: 250px;
+	margin-top: 70px;
+	margin-left: 20px;
+}
+
+.yazı {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: 14px;
+	color: #FFF;
+	float: left;
+	height: 40px;
+	width: 400px;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+.kutu1 {
+	color: #0FF;
+	float: left;
+	height: 200px;
+	width: 250px;
+}
+.kutu2 {
+	background-color: #000;
+	float: left;
+	height: 200px;
+	width: 250px;
+	margin-left: 75px;
+}
+.kutu3 {
+	background-color: #FF3;
+	float: right;
+	height: 200px;
+	width: 250px;
+}
+.iletisimalani {
+	height: 293px;
+	width: 500px;
+	float:left
+}
+.iletisimgörsel {
+	background-color: #639;
+	height: 293px;
+	width: 400px;
+	float: right;
+}
